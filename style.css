@@ -12,6 +12,30 @@
     background: linear-gradient(to right, #9c27b0, #8ecdff);
 }
 
+.pBody{
+    width: 1;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+    background: linear-gradient(to right, #9c27b0, #8ecdff);
+    overflow: scroll;
+}
+
+.aBody{
+    width: 1;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+    background: linear-gradient(to right, #9c27b0, #8ecdff);
+}
+
+.cBody{
+    width: 1;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+    background: linear-gradient(to right, #9c27b0, #8ecdff);
+}
 
 nav{
     width: 80%;
@@ -152,4 +176,58 @@ nav{
     position: absolute;
     left: 0;
     top: 0;
+}
+
+
+/* #p1{
+    display: inline-block;
+    margin-top: 250px;
+    margin-left: 200px;
+    
+    
+}
+
+#p2{
+    display: inline-block;
+    margin-top: 250px;
+    margin-left: 150px;
+    
+    
+}
+
+#p3{
+    display: inline-block;
+    margin-top: 250px;
+    margin-left: 150px;
+    
+    
+} */
+
+.gallery {
+    
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+    margin-top: 200px;
+    margin-left: 150px;
+  }
+  
+.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+.gallery img {
+    width: 100%;
+    height: auto;
+    cursor: pointer;
+  }
+  
+.desc {
+    padding: 15px;
+    text-align: center;
+  }
+
+.cartBtn {
+    text-align: center;
 }

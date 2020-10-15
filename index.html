@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Website Design</title>
     <link rel="stylesheet" href="style.css">
 </head>
-<body>
+
+<body class="mBody">
     <div class="main">
         <nav>
             <div class="logo">
@@ -14,10 +16,10 @@
             </div>
             <div class="nav-links">
                 <ul>
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">Phone</a></li>
-                    <li><a href="#">Accessories</a></li>
-                    <li><a href="#">Cart</a></li>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="phones.html">Phones</a></li>
+                    <li><a href="acc.html">Accessories</a></li>
+                    <li><a href="cart.html">Cart</a></li>
                 </ul>
             </div>
         </nav>
@@ -25,7 +27,9 @@
 
         <div class="information">
             <div class="overlay"></div>
-            <img src="images/mobile.png" class="mobile">
+            <a href="Phones.html">
+                <img src="images/mobile.png" class="mobile">
+            </a>
             <div id="circle">
                 <div class="feature one">
                     <img src="images/camera.png" alt="">
@@ -67,30 +71,29 @@
     </div>
 
 
-<script>
-    let circle = document.getElementById("circle");
-    let upBtn = document.getElementById("upBtn");
-    let downBtn = document.getElementById("downBtn");
+    <script>
+        let circle = document.getElementById("circle");
+        let upBtn = document.getElementById("upBtn");
+        let downBtn = document.getElementById("downBtn");
 
-    let rotateValue = circle.style.transform;
-    let rotateSum;
+        let rotateValue = circle.style.transform;
+        let rotateSum;
 
-    upBtn.onclick = function()
-    {
-        rotateSum = rotateValue + "rotate(-90deg)";
-        circle.style.transform = rotateSum;
-        rotateValue = rotateSum;
-    }
+        upBtn.onclick = function () {
+            rotateSum = rotateValue + "rotate(-90deg)";
+            circle.style.transform = rotateSum;
+            rotateValue = rotateSum;
+        }
 
-    downBtn.onclick = function()
-    {
-        rotateSum = rotateValue + "rotate(90deg)";
-        circle.style.transform = rotateSum;
-        rotateValue = rotateSum;
-    }
+        downBtn.onclick = function () {
+            rotateSum = rotateValue + "rotate(90deg)";
+            circle.style.transform = rotateSum;
+            rotateValue = rotateSum;
+        }
 
-</script>
+    </script>
 
 
 </body>
+
 </html>
