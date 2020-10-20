@@ -27,6 +27,7 @@
     position: relative;
     overflow: hidden;
     background: linear-gradient(to right, #9c27b0, #8ecdff);
+    overflow: scroll;
 }
 
 .cBody{
@@ -35,6 +36,7 @@
     position: relative;
     overflow: hidden;
     background: linear-gradient(to right, #9c27b0, #8ecdff);
+    overflow: scroll;
 }
 
 nav{
@@ -228,6 +230,10 @@ nav{
     text-align: center;
   }
 
+  /* controls where the button is in the box */
 .cartBtn {
-    text-align: center;
+    padding: 10px;
+    margin-left: 25%;
+    margin-bottom: 10px;
 }
+
