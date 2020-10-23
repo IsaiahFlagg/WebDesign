@@ -1,21 +1,21 @@
 # Web Design
  
 
-Project name is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+My project "Web Design" is a `template` that allows `beginner programmers` to `reference` the fundamentals of what is needed to create a website.
 
-Additional line of information text about what the project does. Your introduction should be around 2 or 3 sentences. Don't go overboard, people won't read it.
+This project showcases my ability to use CSS and HTML to make a multi-page responsive design. <br>
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 <!--- These are just example requirements. Add, duplicate or remove as required --->
-* You have installed the latest version of `<coding_language/dependency/requirement_1>`
-* You have a `<Windows/Linux/Mac>` machine. State which OS is supported/which is not.
-* You have read `<guide/link/documentation_related_to_project>`.
+* You have installed the latest version of Live server extention for VSCode and `VSCode`
+* You have a `Windows` machine.
+* You have read `Installation Instructions` below.
 
-## Installing <project_name>
+## Installing <Web_Design>
 
-To install <project_name>, follow these steps:
+
 
 Linux and macOS:
 ```
@@ -28,13 +28,13 @@ Windows:
 ```
 ## Using <project_name>
 
-To use <project_name>, follow these steps:
+To use this project, simply:
 
 ```
-<usage_example>
+Run 'Live server'
 ```
 
-Add run commands and examples you think users will find useful. Provide an options reference for bonus points!
+<!-- Add run commands and examples you think users will find useful. Provide an options reference for bonus points! -->
 
 ## Contributing to <project_name>
 <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
