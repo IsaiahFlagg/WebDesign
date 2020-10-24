@@ -10,7 +10,7 @@ This project showcases my ability to use CSS and HTML to make a multi-page respo
 Before you begin, ensure you have met the following requirements:
 <!--- These are just example requirements. Add, duplicate or remove as required --->
 * You have installed the latest version of Live server extention for VSCode and `VSCode`
-* You have a `Windows` machine.
+* You have a `Windows OS`.
 * You have read `Installation Instructions` below.
 
 ## Installing <Web_Design>
@@ -48,21 +48,21 @@ To contribute to <project_name>, follow these steps:
 
 Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-## Contributors
+<!-- ## Contributors
 
 Thanks to the following people who have contributed to this project:
 
 * [@scottydocs](https://github.com/scottydocs) 📖
 * [@cainwatson](https://github.com/cainwatson) 🐛
-* [@calchuchesta](https://github.com/calchuchesta) 🐛
+* [@calchuchesta](https://github.com/calchuchesta) 🐛 -->
 
-You might want to consider using something like the [All Contributors](https://github.com/all-contributors/all-contributors) specification and its [emoji key](https://allcontributors.org/docs/en/emoji-key).
+<!-- You might want to consider using something like the [All Contributors](https://github.com/all-contributors/all-contributors) specification and its [emoji key](https://allcontributors.org/docs/en/emoji-key). -->
 
-## Contact
+<!-- ## Contact
 
 If you want to contact me you can reach me at <your_email@address.com>.
 
 ## License
 <!--- If you're not sure which open license to use see https://choosealicense.com/--->
 
-This project uses the following license: [<license_name>](<link>).
+This project uses the following license: [<license_name>](<link>). -->
