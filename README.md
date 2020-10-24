@@ -36,9 +36,9 @@ Run 'Live server'
 
 <!-- Add run commands and examples you think users will find useful. Provide an options reference for bonus points! -->
 
-## Contributing to <project_name>
+## Contributing to <Web_Design>
 <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
-To contribute to <project_name>, follow these steps:
+To contribute to <Web_Design>, follow these steps:
 
 1. Fork this repository.
 2. Create a branch: `git checkout -b <branch_name>`.
@@ -64,5 +64,5 @@ If you want to contact me you can reach me at <your_email@address.com>.
 
 ## License
 <!--- If you're not sure which open license to use see https://choosealicense.com/--->
-
+<!-- 
 This project uses the following license: [<license_name>](<link>). -->
